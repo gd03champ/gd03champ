@@ -15,3 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+name: Top answers from stackoverflow
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.stackoverflow.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_stackoverflow: yes
+  plugin_stackoverflow_user: 1
+  plugin_stackoverflow_sections: answers-top
+  plugin_stackoverflow_limit: 2
+
+
