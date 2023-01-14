@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning merns stack...
 - 📫 How to reach me: ganishdeepak.cs21@bitsathy.ac.in
 
+(will update this area sooner!)
+
