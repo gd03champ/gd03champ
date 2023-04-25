@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently an computer engineering student ...
-- 🌱 I’m currently learning merns stack...
-- 📫 How to reach me: ganishdeepak.cs21@bitsathy.ac.in
+- 🌱 I’m currently learning cross platform development...
+- 📫 How to reach me: gd03champ.web.app
 
 (will update this area sooner!)
 
